@@ -13,3 +13,7 @@ This is an informative article that gives a glimpse of what makes UI development
 Thanks for sharing the article. I agree with you and the article on that UI development is not a easy path. Like mentioned in the article, the error message are tricky and sometimes we used a lot of external techonologies that we may not be a master of.
 
 That being said, I am grateful to read this article because it gave me a thorough angle on what we are doing right now. 
+
+## Comments by Anita Ye
+
+It's so important to understand the difficulties regrading UI designs since it has become such an major part of web developing. The "unhappy paths" of error handling also seemed frustrating and relatable. Thank you for sharing this article! 
